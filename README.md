@@ -5,7 +5,6 @@
 🌱 Always learning, building, and turning data into something useful
 </h3>
 
-- 📫 How to reach me: [inesmtibaa29@gmail.com](mailto:inesmtibaa29@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
